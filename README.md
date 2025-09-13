@@ -21,7 +21,7 @@ This project solves the problem by creating a fully automated, end-to-end system
 
 ********************************************************************************
 -->
-![Workflow Diagram for Feedback Analysis][https://github.com/user-attachments/assets/1c5446df-b29f-485c-9eb6-fcca34631b4d]
+![Workflow Diagram for Feedback Analysis][FeedbackAnalysis.jpg]
 
 ## Key Features & Results
 -   **End-to-End Automation:** Orchestrated a multi-step workflow in Make.com to instantly capture Google Forms submissions and process them without manual intervention.
