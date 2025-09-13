@@ -17,12 +17,11 @@ This project solves the problem by creating a fully automated, end-to-end system
 
 <!-- 
 ********************************************************************************
-PASTE SCREENSHOT HERE:
-Take a screenshot of your workflow diagram from your "Automated Feedback Analysis" presentation.
-Then, replace the line below with your image link.
+<img width="953" height="504" alt="image" src="https://github.com/user-attachments/assets/1c5446df-b29f-485c-9eb6-fcca34631b4d" />
+
 ********************************************************************************
 -->
-![Workflow Diagram for Feedback Analysis](YOUR_IMAGE_LINK_HERE)
+![Workflow Diagram for Feedback Analysis][https://github.com/user-attachments/assets/1c5446df-b29f-485c-9eb6-fcca34631b4d]
 
 ## Key Features & Results
 -   **End-to-End Automation:** Orchestrated a multi-step workflow in Make.com to instantly capture Google Forms submissions and process them without manual intervention.
